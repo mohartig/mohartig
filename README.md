@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Moritz Hartig @mohartig, a master student in development economics at the Universities of Göttingen (GER) and Florence (ITA).
+- 👀 I’m interested in development economics, e.g., agriculture, health, spatial applications, RCTs, GMOs
+- 🌱 I’m currently learning topics in household agriculture economics and GIS applications
+- 📫 How to reach me: moritz.hartig@icloud.com
