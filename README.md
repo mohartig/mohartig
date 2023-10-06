@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Moritz Hartig @mohartig, a PhD student in agricultural economics at the University of Göttingen (GER)
 - 👀 I’m interested in agricultural and development economics
 - 🌱 I’m currently learning topics in efficiency analysis and spatial matching
-- 📫 How to reach me: moritz.hartig@icloud.com
+- 📫 How to reach me: moritz.hartig@icloud.com or http://moritzhartig.com 
